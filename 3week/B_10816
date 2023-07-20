@@ -54,5 +54,5 @@ int main() {
         printf("%d ", upper_bound(card, N, x) - lower_bound(card, N, x));
     }
 
-    return 0;
+    return 0; 
 }
